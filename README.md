@@ -2,7 +2,7 @@
 
 Bytesweep is a modern, responsive e-commerce website for electronics and tech gadgets, built using 'React.js'. This project demonstrates core frontend development practices with clean UI and component-based architecture.
 
-# 🚀 Features
+##🚀 Features
 
 ✅ Fully Responsive Design
 ✅ Built with React + Vite for fast performance
@@ -16,7 +16,7 @@ Bytesweep is a modern, responsive e-commerce website for electronics and tech ga
 ---
 
 
-# 🛠️ Tech Stack
+##🛠️ Tech Stack
 
 * React.js
 *  Vite (for faster development)
@@ -26,7 +26,7 @@ Bytesweep is a modern, responsive e-commerce website for electronics and tech ga
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 /Bytesweep in react
 ├── public/          # Static assets
@@ -41,9 +41,9 @@ Bytesweep is a modern, responsive e-commerce website for electronics and tech ga
 
 ---
 
-# 💡 Getting Started
+##💡 Getting Started
 
-# 1️⃣ Clone the Repository
+##1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/sarthakmahapatra05/BYTESWEEP.git
@@ -55,13 +55,13 @@ Navigate to the project:
 cd BYTESWEEP/Desktop/Bytesweep\ in\ react
 ```
 
-# 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-# 3️⃣ Run the Development Server
+## 3️⃣ Run the Development Server
 
 ```bash
 npm run dev
@@ -71,7 +71,7 @@ The project should now be live at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-#🏗️ Future Improvements
+##🏗️ Future Improvements
 
 * Product detail pages
 * Cart functionality
@@ -81,19 +81,13 @@ The project should now be live at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-# 🙌 Contributing
+## 🙌 Contributing
 
 Pull requests and suggestions are welcome! Feel free to fork the repo and contribute.
 
 ---
 
-# 🌐 Live Preview
-
-*Optional: Add link if deployed online*
-
----
-
-# 📞 Contact
+## 📞 Contact
 
 Created by [Sarthak Mahapatra](https://github.com/sarthakmahapatra05) — feel free to connect!
 
